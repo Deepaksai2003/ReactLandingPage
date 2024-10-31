@@ -1,0 +1,15 @@
+.footer-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 300px; /* Adjust as needed */
+  }
+  
+  .footer-credit {
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+    color: orange;
+    margin-top: auto; /* Pushes it to the bottom */
+  }
+  
